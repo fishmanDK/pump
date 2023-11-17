@@ -1,0 +1,11 @@
+env: "local"
+token: "6273319364:AAHygFH1NAgFhpu_yJ47F4-6iGhGE4wCTmw"
+
+messages:
+  response:
+    start: "Привет я бот который поможет тебе сохранять видео с youtube в форматах: mp4, mp3"
+    inputUrl: "Введите ссылку на видео"
+
+  error:
+    badUrl: "Неправильный URL, убедитесь в его корректности"
+    unknownCommand: "Неизвестная команда"
